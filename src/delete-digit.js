@@ -24,7 +24,7 @@ function deleteDigit(n) {
 
   return Math.max(...newarr);
 }
-myArray;
+
 module.exports = {
   deleteDigit,
 };
